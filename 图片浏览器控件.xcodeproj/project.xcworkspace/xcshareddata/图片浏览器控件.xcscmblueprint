@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "37b23120-c52a-4c25-9981-50db44ac9bdf++8973" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "37b23120-c52a-4c25-9981-50db44ac9bdf++8973" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2808BB85-D85A-4922-9032-2D2D279EB635",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "37b23120-c52a-4c25-9981-50db44ac9bdf++8973" : "Next\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "图片浏览器控件",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "图片浏览器控件\/图片浏览器控件.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/buliceli.local",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "37b23120-c52a-4c25-9981-50db44ac9bdf++8973"
+    }
+  ]
+}
